@@ -1,0 +1,12 @@
+body {
+  background-color: wheat;
+}
+
+#intro_sec {
+  height: 120px;
+  background-color: goldenrod;
+}
+
+input {
+  line-break: strict;
+}
